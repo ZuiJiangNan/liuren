@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 六壬伏英馆</title>
+    <link>https://ZuiJiangNan.github.io/posts/</link>
+    <description>Recent content in Posts on 六壬伏英馆</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 11 Apr 2019 23:36:51 +0800</lastBuildDate><atom:link href="https://ZuiJiangNan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>六壬·伏英馆</title>
+      <link>https://ZuiJiangNan.github.io/posts/main/</link>
+      <pubDate>Thu, 11 Apr 2019 23:36:51 +0800</pubDate>
+      
+      <guid>https://ZuiJiangNan.github.io/posts/main/</guid>
+      <description>三十三天流民六壬正法铁板教/驱邪，制煞，法事，超度，风水，生基，灵符，身体调理等</description>
+    </item>
+    
+    <item>
+      <title>本馆源流</title>
+      <link>https://ZuiJiangNan.github.io/posts/test/</link>
+      <pubDate>Wed, 13 Mar 2019 23:23:34 +0800</pubDate>
+      
+      <guid>https://ZuiJiangNan.github.io/posts/test/</guid>
+      <description>三十三天流民六壬正法铁板教，乃江西凤阳府李法辉老师公传下，惠阳鸭仔埗罗法明老师公传下，上世纪由曾法平</description>
+    </item>
+    
+  </channel>
+</rss>
